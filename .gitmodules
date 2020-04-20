@@ -1,0 +1,3 @@
+[submodule "star-sw"]
+	path = star-sw
+	url = https://github.com/jdbrice/star-sw.git
