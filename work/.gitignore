@@ -1,0 +1,9 @@
+*.root
+*.log
+*.pdf
+out
+paw.metafile
+*.fzd
+fzd/
+.DS_Store
+g2t_track.h
